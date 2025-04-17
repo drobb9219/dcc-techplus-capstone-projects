@@ -6,6 +6,13 @@ This repository contains a full collection of weekly capstone projects completed
 
 ## 🗂️ Project Index & Folder Links
 
+### ✅ [Week 1: Team Project Planning & Leadership](./week1_team-project-plan)
+- [📝 Project README](./week1_team-project-plan/README.md)
+- Project management fundamentals, task breakdown, scheduling, and communication frameworks.  
+  **Led a team of 8 members** through cohort planning and deliverable coordination using agile-style practices.
+
+---
+
 ### ✅ [Week 2: Resume Project](./week2_resume-project)
 - [📄 View Resume (Cloud & IT Support Specialist)](./week2_resume-project/Cloud%20Support%20%26%20IT%20Operations%20Specialist%20Resume%20-%20Deonshae%20Robbins.docx)
 - [📝 Project README](./week2_resume-project/README.md)
@@ -42,7 +49,10 @@ This repository contains a full collection of weekly capstone projects completed
 
 ## 🚀 About This Portfolio
 
-These projects were completed over a 6-week guided cohort experience and reflect technical readiness, professional growth, and real-world problem-solving across IT fundamentals.
+These projects were completed over a 6-week guided cohort experience and reflect:
+- 📁 Technical readiness across IT, cloud, and systems thinking
+- 🧠 Real-world problem-solving with minimal hand-holding
+- 👥 Cross-functional collaboration with peer leadership opportunities
 
 I am currently pursuing roles in:
 - IT Support
